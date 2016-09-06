@@ -4,8 +4,8 @@
 <br>
 <p>1. IPv4, HTTP, Ethernet e UDP</p>
 <p>2. 0.002417 segs</p>
-<ul>3. <li>Computador Destino: 239.255.255.250</li>
-      <li>Meu computador: 172.20.18.135</li></ul>
+<p>3. <ul><li>Computador Destino: 239.255.255.250</>
+      <li>Meu computador: 172.20.18.135</li></ul></p>
 <br>
 <br>
 <br>
